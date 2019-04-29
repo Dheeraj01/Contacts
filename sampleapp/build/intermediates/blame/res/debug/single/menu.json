@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Fabonix\\Project\\Contacts\\sampleapp\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\Fabonix\\Project\\Contacts\\sampleapp\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\Fabonix\\Project\\Contacts\\sampleapp\\build\\intermediates\\res\\merged\\debug\\menu\\api.xml",
+        "source": "D:\\Fabonix\\Project\\Contacts\\sampleapp\\src\\main\\res\\menu\\api.xml"
+    },
+    {
+        "merged": "D:\\Fabonix\\Project\\Contacts\\sampleapp\\build\\intermediates\\res\\merged\\debug\\menu\\deeplink.xml",
+        "source": "D:\\Fabonix\\Project\\Contacts\\sampleapp\\src\\main\\res\\menu\\deeplink.xml"
+    }
+]

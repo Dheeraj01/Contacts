@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">148327359084-982de8j44di5g8smg98r3qp5b6b34p12.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://contacts-816b1.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">148327359084</string>
+    <string name="google_api_key" translatable="false">AIzaSyDdM_tUAD7VA4Z413rrxRf6ysC2jUEdC90</string>
+    <string name="google_app_id" translatable="false">1:148327359084:android:327ffd9424b1161f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDdM_tUAD7VA4Z413rrxRf6ysC2jUEdC90</string>
+    <string name="google_storage_bucket" translatable="false">contacts-816b1.appspot.com</string>
+</resources>
